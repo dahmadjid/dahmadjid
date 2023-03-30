@@ -10,6 +10,6 @@ A highly motivated engineer.<br>Highly interested in Software Engineering, FPGAs
 Embedded: Water Pump control system, Fuel tanks control system. Both with a PCB. Quadcopter Drone.<br>
 C++: Qt/OpenCV Attendance with QR, Firebase Client library for ESP32-IDF (wip)<br>
 FPGA: JPEG Compression Accelerator and SPI Master with VHDL<br>
-Python: https:://hyko.ai with FastAPI, Chess move recognition with OpenCV, various scripts to automate stuff.<br>
+Python: https://hyko.ai backend with FastAPI, Chess move recognition with OpenCV, various scripts to automate stuff.<br>
 Golang: Real time collaborative app like google docs. an application specific proxy.<br>
 Frontend: https://big-mama.io, few parts of https://hyko.ai.<br>
