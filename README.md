@@ -1,5 +1,5 @@
 # 💫 About Me:
-A highly motivated engineer driven by the desire to learn new technologies.<br>Highly interested in Software Engineering, FPGAs and Networking.<br>Software Engineer at https://big-mama.io, working on https://hyko.ai<br>
+A highly motivated engineer.<br>Highly interested in Software Engineering, FPGAs and Networking.<br>Software Engineer at https://big-mama.io, working on https://hyko.ai<br>
 
 
 ### Tech Stack:
