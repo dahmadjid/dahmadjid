@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 A highly motivated engineer.<br>Highly interested in Software Engineering, FPGAs and Networking.<br>Software Engineer at https://big-mama.io, working on https://hyko.ai<br>
 
 
