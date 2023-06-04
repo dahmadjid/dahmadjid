@@ -12,4 +12,4 @@ C++: Qt/OpenCV Attendance with QR, Firebase Client library for ESP32-IDF (wip)<b
 FPGA: JPEG Compression Accelerator and SPI Master with VHDL<br>
 Python: https://hyko.ai backend with FastAPI, Chess move recognition with OpenCV, various scripts to automate stuff.<br>
 Golang: a Proxy for a specific application and a Real time collaborative app like google docs.<br>
-Frontend: https://big-mama.io, few parts of https://hyko.ai.<br>
+Frontend: https://big-mama.io, https://hyko.ai.<br>
