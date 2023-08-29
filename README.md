@@ -1,5 +1,5 @@
 # About Me:
-A highly motivated engineer.<br>Highly interested in Software Engineering, FPGAs and Networking.<br>Software Engineer at https://big-mama.io, working on https://hyko.ai<br>
+Extremely motivated and talented engineer with a broad knowledge over multiple tech fields including Systems Programming, Embedded, FPGAs, Frontend, Backend and AI. As well as deep knowledge in the fields I invested my time in..<br>Software Engineer at https://big-mama.io, working on https://hyko.ai<br>
 
 
 ### Tech Stack:
